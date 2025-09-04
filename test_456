@@ -1,0 +1,13 @@
+PayPal Client Secret: EJZROTATED-1234-5678-ABCDEFGHIJKL987654
+Generic API Key: api_rotated_abcdef9876543210abcdef9876543210
+RSA Private Key:
+-----BEGIN RSA PRIVATE KEY-----
+MIIEpAIBAAKCAQEArotatedKeyExampleData1234567890ABCDEF
+-----END RSA PRIVATE KEY-----
+AWS Access Key ID: AKIAROTATEDKEY0987654321
+AWS Secret Access Key: rotatedSecret0987654321ABCDEFabcdef123456
+GitHub OAuth Token: gh_oauth_rotated_abcdef1234567890abcdef
+Google OAuth Client Secret: rotatedD4j-abcdefghi9876543210ZYXWV
+SendGrid API Key: SG.rotatedKey-abcdef-9876543210-abcdEFGH567890
+Mailgun API Key: key-rotated9876543210abcdef9876543210abcd
+DigitalOcean Token: do_rotatedToken0987654321abcdef9876543210
